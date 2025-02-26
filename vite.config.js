@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react-swc'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/updated-exercise-app-1',
+  base: '/updated-exercise-app-1/',
 })
